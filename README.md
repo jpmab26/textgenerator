@@ -61,7 +61,7 @@ O nosso algoritmo agora basicamente escolhe um nó aleatório e transita entre o
 
 Aqui está alguns exemplos de provérbios criados pelo algoritmo com uma base de dados de 71 provérbios ([fonte](https://www.todamateria.com.br/proverbios-e-ditados/)):
 
-Rodando `python3 generate.py proverbios.txt 10 5 10`, tivemos:
+Rodando `python3 generate.py db/proverbios.txt 10 5 10`, tivemos:
 
 > Palavra basta para baixo todo santo ajuda pimenta nos olhos dos outros é o faça. 
 
