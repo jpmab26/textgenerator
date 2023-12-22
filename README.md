@@ -2,8 +2,6 @@
 
 **Nome**: João Pedro Bianco
 
-**DRE**: 120064499
-
 **Email**: joaopmab@ic.ufrj.br
 
 ---
